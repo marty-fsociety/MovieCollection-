@@ -1,0 +1,14 @@
+/home/fals/User/obj/Debug/net10.0/User.GeneratedMSBuildEditorConfig.editorconfig
+/home/fals/User/obj/Debug/net10.0/User.AssemblyInfoInputs.cache
+/home/fals/User/obj/Debug/net10.0/User.AssemblyInfo.cs
+/home/fals/User/obj/Debug/net10.0/User.csproj.CoreCompileInputs.cache
+/home/fals/User/bin/Debug/net10.0/User
+/home/fals/User/bin/Debug/net10.0/User.deps.json
+/home/fals/User/bin/Debug/net10.0/User.runtimeconfig.json
+/home/fals/User/bin/Debug/net10.0/User.dll
+/home/fals/User/bin/Debug/net10.0/User.pdb
+/home/fals/User/obj/Debug/net10.0/User.dll
+/home/fals/User/obj/Debug/net10.0/refint/User.dll
+/home/fals/User/obj/Debug/net10.0/User.pdb
+/home/fals/User/obj/Debug/net10.0/User.genruntimeconfig.cache
+/home/fals/User/obj/Debug/net10.0/ref/User.dll
